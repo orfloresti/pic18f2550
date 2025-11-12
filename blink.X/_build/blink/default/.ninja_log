@@ -1,0 +1,8 @@
+# ninja log v7
+0	6	1762965312546247722	clean	7f1218baad457ed
+2	11	1762965327923248162	clean	7f1218baad457ed
+1	447	1762965342127248568	CMakeFiles/blink_default_default_XC8_compile.dir/home/orfloresti/projects/microchip/pic18f2550/blink.X/main.c.p1	c5e5f661f4fb96a3
+447	1598	1762965342574678767	/home/orfloresti/projects/microchip/pic18f2550/blink.X/out/blink/default.elf	a1d2768b45e0457f
+1	8	1762965425515250950	clean	7f1218baad457ed
+1	242	1762965425582250952	CMakeFiles/blink_default_default_XC8_compile.dir/home/orfloresti/projects/microchip/pic18f2550/blink.X/main.c.p1	c5e5f661f4fb96a3
+242	1281	1762965425823250959	/home/orfloresti/projects/microchip/pic18f2550/blink.X/out/blink/default.elf	a1d2768b45e0457f

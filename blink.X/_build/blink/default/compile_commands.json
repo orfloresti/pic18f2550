@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/orfloresti/projects/microchip/pic18f2550/blink.X/_build/blink/default",
+  "command": "/opt/microchip/xc8/v3.10/bin/xc8-cc -DXPRJ_default=default -D__18F2550__ -D__DEBUG=1 -c -mcpu=18F2550 -mdfp=/home/orfloresti/.mchp_packs/Microchip/PIC18Fxxxx_DFP/1.7.171/xc8 -fno-short-double -fno-short-float -memi=wordwrite -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -o CMakeFiles/blink_default_default_XC8_compile.dir/home/orfloresti/projects/microchip/pic18f2550/blink.X/main.c.p1 -c /home/orfloresti/projects/microchip/pic18f2550/blink.X/main.c",
+  "file": "/home/orfloresti/projects/microchip/pic18f2550/blink.X/main.c",
+  "output": "CMakeFiles/blink_default_default_XC8_compile.dir/home/orfloresti/projects/microchip/pic18f2550/blink.X/main.c.p1"
+}
+]

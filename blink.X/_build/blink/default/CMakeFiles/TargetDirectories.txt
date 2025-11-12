@@ -1,0 +1,4 @@
+/home/orfloresti/projects/microchip/pic18f2550/blink.X/_build/blink/default/CMakeFiles/blink_default_default_XC8_compile.dir
+/home/orfloresti/projects/microchip/pic18f2550/blink.X/_build/blink/default/CMakeFiles/blink_default_image_hAKDysJn.dir
+/home/orfloresti/projects/microchip/pic18f2550/blink.X/_build/blink/default/CMakeFiles/edit_cache.dir
+/home/orfloresti/projects/microchip/pic18f2550/blink.X/_build/blink/default/CMakeFiles/rebuild_cache.dir
